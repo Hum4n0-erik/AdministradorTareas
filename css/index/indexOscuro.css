@@ -1,0 +1,27 @@
+body{
+    background-image: url("./../../img/fondo/oscuro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login{
+    border: 4px solid black;
+    background-color: rgba(0, 14, 86, 0.622);
+}
+#cuentaNV{
+    color: rgb(244, 64, 64);
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.texto{
+    color: rgb(216, 216, 216);
+}
+.cTema {
+    margin-top: 5%;
+    background-color:  rgba(174, 217, 255, 0.837);
+    color: rgb(57, 57, 57);
+    padding: 2%;
+    font-weight: bolder;
+}
+#log:hover {
+    color: red;
+}

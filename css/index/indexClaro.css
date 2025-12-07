@@ -1,0 +1,24 @@
+body{
+    background-image: url("./../../img/fondo/claro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login{
+    border: 4px solid black;
+    background-color: rgba(174, 217, 255, 0.926);
+}
+#cuentaNV{
+    color: rgb(155, 23, 23);
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.cTema {
+    margin-top: 5%;
+    background-color: rgb(57, 57, 57);
+    color: rgba(174, 217, 255, 0.837);
+    padding: 2%;
+    font-weight: bolder;
+}
+#log:hover {
+    color: red;
+}

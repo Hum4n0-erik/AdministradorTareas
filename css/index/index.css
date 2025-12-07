@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#login {
+    justify-content: center;
+    margin-top: 5%;
+    padding: 3%;
+    width: 30%;
+}
+#info {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+    /* background-attachment: fixed; Opcional: mantiene el fondo fijo al hacer scroll */
+
+}
